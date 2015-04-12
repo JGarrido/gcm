@@ -2,3 +2,12 @@ bin
 .project
 .classpath
 
+.gradle/
+.idea/
+GcmClient/GcmClient.iml
+GcmClient/build/
+gcm-client.iml
+gradle/gradle.iml
+gradle/local.properties
+local.properties
+/build
